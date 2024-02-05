@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkrisht14
-- 👀 I’m interested in Business Intelligence and Artificial Intelligence
+- 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI
 - 📫 utkrisht14@gmail.com | https://www.linkedin.com/in/utkrisht-mallick-638818190/
